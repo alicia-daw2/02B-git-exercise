@@ -10,4 +10,8 @@ que añada tu nombre a la lista de abajo
 * Hacer pull request
 
 Nombres:
-- Ivan Bascones
+
+
+Alicia
+Miguel Onecha
+Ivan Bascones

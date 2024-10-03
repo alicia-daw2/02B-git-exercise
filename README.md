@@ -10,4 +10,11 @@ que añada tu nombre a la lista de abajo
 * Hacer pull request
 
 Nombres:
+
 Rodrigo
+Luis Daniel
+Miguel Fernández 
+Alicia
+Miguel Onecha
+Ivan Bascones
+

@@ -11,10 +11,18 @@ que añada tu nombre a la lista de abajo
 
 Nombres:
 
+Jaime de Pablos 
+
 Rodrigo
+
 Luis Daniel
+
 Miguel Fernández 
+
 Alicia
+
 Miguel Onecha
+
 Ivan Bascones
+
 

@@ -10,4 +10,25 @@ que añada tu nombre a la lista de abajo
 * Hacer pull request
 
 Nombres:
+
 Daniel
+
+Alvaro Gonzalez Estrella
+
+Carlos Infante Carranza
+
+Bruno Luis t
+
+Jaime de Pablos 
+
+Rodrigo
+
+Luis Daniel
+
+Miguel Fernández 
+
+Alicia
+
+Miguel Onecha
+
+Ivan Bascones

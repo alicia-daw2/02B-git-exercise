@@ -10,8 +10,23 @@ que añada tu nombre a la lista de abajo
 * Hacer pull request
 
 Nombres:
-Bruno Luis t
 
+Bruno Luis t
+======
+
+Jaime de Pablos 
+
+Rodrigo
+
+Luis Daniel
+
+Miguel Fernández 
+
+Alicia
+
+Miguel Onecha
+
+Ivan Bascones
 
 
 

@@ -10,4 +10,19 @@ que añada tu nombre a la lista de abajo
 * Hacer pull request
 
 Nombres:
-Jaime de Pablos
+
+Jaime de Pablos 
+
+Rodrigo
+
+Luis Daniel
+
+Miguel Fernández 
+
+Alicia
+
+Miguel Onecha
+
+Ivan Bascones
+
+

@@ -11,6 +11,7 @@ que añada tu nombre a la lista de abajo
 
 Nombres:
 
+Alvaro Gonzalez Estrella
 
 Carlos Infante Carranza
 
@@ -29,6 +30,3 @@ Alicia
 Miguel Onecha
 
 Ivan Bascones
-
-
-

@@ -11,6 +11,8 @@ que añada tu nombre a la lista de abajo
 
 Nombres:
 
+Daniel
+
 Alvaro Gonzalez Estrella
 
 Carlos Infante Carranza
